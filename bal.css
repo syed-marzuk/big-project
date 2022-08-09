@@ -1,0 +1,4 @@
+.bal:hover::after{
+    content:'';
+   transition: 1.4s;
+}
