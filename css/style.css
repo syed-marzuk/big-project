@@ -100,11 +100,7 @@
      70%,90%{
       width: 100%;
      }
-
-
-
-
-  }
+ }
 
   .samaver:hover {
    color: #ffffff !important;
@@ -112,13 +108,13 @@
    transform: rotate(30px);
   }
 
-  /* @keyframes animate{
+  @keyframes animate{
     0%,10%,100%{
      width:0;
     }
     70%,90%{
      width: 100%;
-    } */
+    }
 
 
 
