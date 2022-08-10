@@ -152,10 +152,13 @@ data-text {
 .btn-danger{
   background-color:#fc0a0a!important;
   color: #000 !important;
+ 
 }
 
 .btn-danger:hover{
   color: #ffff !important;
+  background-color:black !important ;
+  border: #000 !important;
 }
 
 
